@@ -1,0 +1,13 @@
+Nuestro Front-End tendra la siguiente dependencia:
+ - "npm i react-router-dom" => "react-router-dom" => Nos permitira crear las distintas rutas/paginas dentro de nuestro proyecto
+
+Utilizaremos los Hooks: "useState", "useContext" y "useReducer"
+Para ello crearemos una carpeta llamada "Context", dentro de esta carpeta crearemos 3 archivos llamados:
+- proyectoState.jsx
+- proyectoContext.jsx
+- proyectoReducer.jsx
+
+- npm i react-transition-group => Para darle efectos visuales cuando eliminemos una tarea, estara dentro de "ListadoTareas"
+
+AQUI FALTA DOCUMENTAR TODOS LOS COMPONENTES POR MEDIO DE PropTypes y luego empaquetar todo el codigo con "npm build"
+Carpetas q pueden ser utiles: Helpers, Hooks, Static, Pages

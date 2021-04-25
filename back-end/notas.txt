@@ -1,0 +1,3 @@
+bcrypt -> Para encriptar la password
+express-validator -> Validar los datos enviados desde el front (no me convence mucho)
+jwt -> Enviar un token del front al back
